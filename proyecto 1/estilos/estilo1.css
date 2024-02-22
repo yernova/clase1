@@ -1,0 +1,27 @@
+*{
+    margin: 20px;
+}
+body{
+    font-family: tahoma;
+    
+}
+h1{
+    color:rgb(223, 0, 85);
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
+    border: 15px;
+    border-style: double;
+}
+p{
+    background-color: yellow;
+    color: rgb(0, 205, 241);
+    text-align: justify;
+}
+img{
+    width: 30%;
+    border-radius: 10%;
+    
+    
+}
